@@ -9,3 +9,7 @@ end
 def 🌮
   puts "taco!"
 end
+
+def 🍜
+  puts "Send Noods!"
+end
