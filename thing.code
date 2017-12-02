@@ -1,3 +1,7 @@
 def foo
   bar
 end
+
+def gps
+  we do stuff....
+end
